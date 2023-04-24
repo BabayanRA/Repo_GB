@@ -12,5 +12,5 @@ Console.Write("Введите 2-ое число:");
 int num2 = int.Parse(Console.ReadLine());
 int min = Math.Min(num1,num2);
 int max = Math.Max(num1,num2);
-Console.Write("Max=", max);
-Console.Write("Min=", min);
+Console.WriteLine($"Max={max}");
+Console.WriteLine($"Min={min}");
