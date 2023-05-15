@@ -18,6 +18,6 @@ if (number < 100 || number >= 1000)
     Console.WriteLine("Вы ввели не трехзначное число, повторите ввод");
     return;
 }
-Console.WriteLine($"Число '{number}");
+Console.WriteLine($"Число '{number}'");
 int secondRank = number / 10 % 10;
-Console.WriteLine($"Вторая цифра '{secondRank}");
+Console.WriteLine($"Вторая цифра '{secondRank}'");
