@@ -23,7 +23,7 @@ int GetThirdRank(int number)
     {
         number /= 10;
     }
-    return number %10;
+    return number % 10;
 
 }
 
@@ -31,13 +31,13 @@ bool ValidateNumber(int number)
 {
     if (number < 100)
     {
-        Console.WriteLiner("Третьей цифры нет");
+        Console.WriteLine("Третьей цифры нет");
         return false;
     }
     return true;
 }
 
-int number = Prompt ("Введитее число:");
+int number = Prompt ("Введите число:");
 if (ValidateNumber(number))
 {
     Console.WriteLine(GetThirdRank(number));
