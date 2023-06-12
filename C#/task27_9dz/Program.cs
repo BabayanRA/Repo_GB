@@ -3,21 +3,21 @@
 M = 1; N = 5. -> "1, 2, 3, 4, 5"
 M = 4; N = 8. -> "4, 5, 6, 7, 8"
 */
-int n = InputInt("Введите положительное число: ");
 int m = InputInt("Введите положительное число: ");
+int n = InputInt("Введите положительное число: ");
 if (n < 1 || m < 1)
 {
     Console.WriteLine("Вы ввели не положительное число");
 }
-Console.WriteLine(NaturalNumber(n, m));
+Console.WriteLine(NaturalNumber(m, n));
 
-int NaturalNumber(int n, int m)
+int NaturalNumber(int m, int n)
 {
-    if (n == m)
-        return n;
+    if (m == n)
+        return m;
     else
-        Console.Write($"{NaturalNumber(n, m - 1)}, ");
-    return m;
+        Console.Write($"{NaturalNumber(m, n - 1)}, ");
+    return n;
 }
 
 int InputInt(string output)
