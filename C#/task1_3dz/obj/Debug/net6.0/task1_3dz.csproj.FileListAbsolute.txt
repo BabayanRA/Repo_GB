@@ -1,0 +1,15 @@
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\obj\Debug\net6.0\task1_3dz.csproj.AssemblyReference.cache
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\obj\Debug\net6.0\task1_3dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\obj\Debug\net6.0\task1_3dz.AssemblyInfoInputs.cache
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\obj\Debug\net6.0\task1_3dz.AssemblyInfo.cs
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\obj\Debug\net6.0\task1_3dz.csproj.CoreCompileInputs.cache
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\bin\Debug\net6.0\task1_3dz.exe
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\bin\Debug\net6.0\task1_3dz.deps.json
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\bin\Debug\net6.0\task1_3dz.runtimeconfig.json
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\bin\Debug\net6.0\task1_3dz.dll
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\bin\Debug\net6.0\task1_3dz.pdb
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\obj\Debug\net6.0\task1_3dz.dll
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\obj\Debug\net6.0\refint\task1_3dz.dll
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\obj\Debug\net6.0\task1_3dz.pdb
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\obj\Debug\net6.0\task1_3dz.genruntimeconfig.cache
+C:\Users\Merseyside\Desktop\Go_Kurs\Git\Repo_GB\C#\task1_3dz\obj\Debug\net6.0\ref\task1_3dz.dll
